@@ -1,0 +1,24 @@
+# Site settings
+title: Words Matter
+email: blackmountainstesting@gmail.com
+url: https://blackmountainstesting.github.io
+description: "or at least that's what some bloke told me in the pub one time..."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Black Mountains Testing
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/blackmountainst
+  - title: github
+    url: https://github.com/blackmountainstesting/
+
+# Build settings
+markdown: kramdown
+permalink: pretty

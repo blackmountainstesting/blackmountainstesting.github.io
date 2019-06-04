@@ -1,0 +1,8 @@
+- name: Home
+  link: /blog/
+- name: About
+  link: /about/
+- name: Training
+  link: /training/
+- name: Contact
+  link: /contact/

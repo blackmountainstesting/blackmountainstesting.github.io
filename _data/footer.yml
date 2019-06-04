@@ -1,0 +1,17 @@
+left_links:
+  - name: Home
+    link: /blog/
+  - name: About
+    link: /about/
+  - name: Training
+    link: /training/
+  - name: Contact
+    link: /contact/
+right_links:
+  - name:
+    link: https://twitter.com/blackmountainst
+    social_icon: Twitter
+    new_window: true
+  - name:
+    link: /feed.xml
+    social_icon: RSS
